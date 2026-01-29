@@ -1,0 +1,5 @@
+{
+  "name": "SkyGuard SMS - IFP Design",
+  "description": "Safety Management System for Instrument Flight Procedure Design according to ICAO Doc 9859 and Doc 8168. Manage risks across data procurement, obstacle analysis, design, and validation phases.",
+  "requestFramePermissions": []
+}
